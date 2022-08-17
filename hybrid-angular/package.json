@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "start:cdn": "serve -l 4000 /Users/davidfrontegg/git/hybrid-angular/dist/hybrid-angular"
+    "start:cdn": "serve -C -l 4000 ./dist"
   },
   "private": true,
   "dependencies": {
