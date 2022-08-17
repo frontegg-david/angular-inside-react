@@ -1,6 +1,14 @@
-# Render Angular modules inside React Application
+![alt text](./frontegg-logo.png)
 
-Slides PDF: [https://docs.google.com/presentation/d/1wO193VxkwXrCysthlPS51MDKCPaigINqNn3kA78UzKI/edit?usp=sharing](https://docs.google.com/presentation/d/1wO193VxkwXrCysthlPS51MDKCPaigINqNn3kA78UzKI)
+Frontegg is a web platform where SaaS companies can set up their fully managed, scalable and brand aware - SaaS features
+and integrate them into their SaaS portals in up to 5 lines of code.
+
+Visit [Frontegg Website](https://frontegg.com) for more information.
+
+
+### Render Angular modules inside React Application
+
+Slides PDF: [Download](https://github.com/frontegg-david/angular-inside-react/raw/master/slides.pdf)
 
 ### Social Media Links:
 
